@@ -118,7 +118,7 @@ This program is called Live Pet Game has several inputs that controls the game. 
 
 ### v0.7
 There are three programs in this activity the first one Brightness Changes the Brightness of the leds. If A is pressed brightness will go down and if B is pressed the brightness will rise. the second pogrom Random Patterns Generators. In this program if A or Be is pressed it will use to different syntaxes to display random led displays. The last program Smile Animation displays a face that continues to display a neutral face then a silly face, switching back and forth.
-[Activity 7](7SmileAnimation.js, 7RandomPatternsGenerator.js, 7Brightness.js)
+[Activity 7 part 1](7SmileAnimation.js), [Activity 7 part 2](7RandomPatternsGenerator.js), [Activity 7 part 3](7Brightness.js)
 
 ### v0.8
 This program is a coin flip game. By shaking the device, it will randomly display A or B, heads or Tails. after the game is played the user then can reset the scores by pressing A.
@@ -136,7 +136,7 @@ This program send miscode between devices. if user Presses A it will send 0 and 
 
 ### v0.11
 Both programs use arrays. the first program GamePlay on star will count down then show a random word from the list. If user want to restart, they will just need to flip the device upside down then right side up and it will start over again. The second StaryNights when user presses A an array display a random twinkling display of leds. The last program TraversingArray has no functions is is just a good example how to wright an array. 
-[Activity 11](11GamePlay.js, 11StarryNight.js, 11TraversingArray)
+[Activity 11 part 1](11GamePlay.js), [Activity 11 part 2](11StarryNight.js), [Activity 11 part 3](11TraversingArray)
 
 
 ### v0.12
