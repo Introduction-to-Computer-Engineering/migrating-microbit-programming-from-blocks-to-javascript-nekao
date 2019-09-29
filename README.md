@@ -146,7 +146,7 @@ in this program the user must grow their plant. To grow the plant the user must 
 
 ### Midterm project
 
-#### A fun pet game
+#### A fun game that get give the user a fun pet to try and keep alive
 **This program is called Live Pet Game has several inputs that controls the game. The games stars with a happy face display which is the pet and 100 points of health. If user shakes device the program will run a randomly select a heath loss with a unique face change paired with the different loss of health. As well if the A button is pressed and held a continues health gain will happen and image of a small heart to a big heart will display until A is released.  If both A and B are pressed the program will display a light that goes down the screen, then display the health and a silly face. Whenever the pet’s health hit 0 points a skull will display and the user will have to press B button to restart their pet's health to 100 point again. **
 
 #### Design process
@@ -159,7 +159,7 @@ in this program the user must grow their plant. To grow the plant the user must 
 
 ### Final project
 
-#### A fun plant growing game
+#### A fun game that alows the user to use several diffrent methods to grow their plants
 **In this program the user must grow their plant. To grow the plant the user must hold down the A button to water it. as the plant grows it can be seen growing the led display. As is grows the brightness get brighter and when it losses its life it shrinks in size and the brightness dims. When user shakes are randomly chooses a decrease in health. If B is pressed it display health and after uses an array to choose a random word from the array to display. if health of plant reaches zero the plant dies, and user must press AB the restart program. This plant can also interact with other by sending 0,1,2 to the other user the numbers mean giving health or taking health. **
 
 #### Design process
