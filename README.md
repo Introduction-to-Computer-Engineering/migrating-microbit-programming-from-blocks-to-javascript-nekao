@@ -88,36 +88,87 @@ This assignment asks you to go through a [Intro to CS course with Blocks](https:
 
 ## Tags
 
-_**Note:** Add your program descriptions below._
+
 
 ### v0.1
-
-**[your description here, linking to the JavaScript [file](example.js)**]
+This program forever displays a happy then briefly pauses then displays a sad face.
+[Activity 1](1HappySadFace.js)
 
 ### v0.2
+This program displays a happy face when A is pressed and displays a sad face when B is pressed. After A or B is pressed the screen is cleared.
+[Activity 2](2HappyFaceSadFace.js)
 
-**[etc.]**
+### v0.3
+This program is a score keeper. If A is pressed A gets a point. If B is pressed B gets a point. If A and B are pressed at the same time, they get a tie. When the players are done, they can shake the device to display the amount A wins, B wins, and the number of ties.
+[Activity 3](3Scorekeeper.js)
+
+### v0.4
+This program is a game in which upon shaking it will randomly pick rock, paper, scissors, and human. When A is pressed a win is given to the user and when B is pressed a losses is given to the users. When both is pressed the program will display the total games and if user wins or losses.
+[Activity 4](4RockPaperScissors.js)
+
+
+### v0.5
+This program displays a continues led that move across the device starting at the top right and restarting at the bottom left. It also will play a tone while device is shaking and button A is pressed.
+[Activity 5](5TravilingLight.js)
+
+
+### v0.6
+This program is called Live Pet Game has several inputs that controls the game. The games stars with a happy face display which is the pet and 100 points of health. If user shakes device the program will run a randomly select a heath loss with a unique face change paired with the different loss of health. As well if the A button is pressed and held a continues health gain will happen and image of a small heart to a big heart will display until A is released.  If both A and B are pressed the program will display a light that goes down the screen, then display the health and a silly face. Whenever the pet’s health hit 0 points a skull will display, and the user will have to press B button to restart their pet's health to 100 point again.
+[Mid-term](6LivePetGame.js)
+
+### v0.7
+There are three programs in this activity the first one Brightness Changes the Brightness of the leds. If A is pressed brightness will go down and if B is pressed the brightness will rise. the second pogrom Random Patterns Generators. In this program if A or Be is pressed it will use to different syntaxes to display random led displays. The last program Smile Animation displays a face that continues to display a neutral face then a silly face, switching back and forth.
+[Activity 7](7SmileAnimation.js, 7RandomPatternsGenerator.js, 7Brightness.js)
+
+### v0.8
+This program is a coin flip game. By shaking the device, it will randomly display A or B, heads or Tails. after the game is played the user then can reset the scores by pressing A.
+[Activity 8](8DoubleCoinFlipper.js)
+
+### v0.9
+This Program is atranslator. When A is pressed it equals 1 and When be is pressed it equills 0. If A and B are pressed it displays what every biantry number the user input with binary and it displays it in a decimals.
+[Activity 9](9BinaryTransmogrifier.js)
+
+
+### v0.10
+This program send miscode between devices. if user Presses A it will send 0 and display the coinciding miscode led image. The same goes for the buttons B and AB just with their own unique number and coinciding image.
+[Activity 10](10MorseCode.js)
+
+
+### v0.11
+Both programs use arrays. the first program GamePlay on star will count down then show a random word from the list. If user want to restart, they will just need to flip the device upside down then right side up and it will start over again. The second StaryNights when user presses A an array display a random twinkling display of leds. The last program TraversingArray has no functions is is just a good example how to wright an array. 
+[Activity 11](11GamePlay.js, 11StarryNight.js, 11TraversingArray)
+
+
+### v0.12
+in this program the user must grow their plant. To grow the plant the user must hold down the A button to water it. as the plant grows it can be seen growing the led display. As is grows the brightness get brighter and when it losses its life it shrinks in size and the brightness dims. When user shakes are randomly chooses a decrease in health. If B is pressed it display health and after uses an array to choose a random word from the array to display. if health of plant reaches zero the plant dies, and user must press AB the restart program. This plant can also interact with other by sending 0,1,2 to the other user the numbers mean giving health or taking health.
 
 ## Designs
 
-_**Note:** Add your project designs below._
-
 ### Midterm project
 
-_**Note:** Add your project designs below._
-
-#### Goal
-
-**[your short description]**
+#### A fun pet game
+**This program is called Live Pet Game has several inputs that controls the game. The games stars with a happy face display which is the pet and 100 points of health. If user shakes device the program will run a randomly select a heath loss with a unique face change paired with the different loss of health. As well if the A button is pressed and held a continues health gain will happen and image of a small heart to a big heart will display until A is released.  If both A and B are pressed the program will display a light that goes down the screen, then display the health and a silly face. Whenever the pet’s health hit 0 points a skull will display and the user will have to press B button to restart their pet's health to 100 point again. **
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+**I first tried to do this program with a plant but could not figure out how to display the growth of a plant. Do to that i did a pet. Fist i asked how it should gain and losses health. the answer of this was pressing A to feed and add health. As well I made the health decreases though the user shaking their pet. Heath is very important for the user to continue playing this game. This game lies heavy on the fact of user interactions including A button, AB button. b button restarts the program. The final program run perfectly**
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
+****
 
 ### Final project
 
-**[etc.]**
+#### A fun plant growing game
+**In this program the user must grow their plant. To grow the plant the user must hold down the A button to water it. as the plant grows it can be seen growing the led display. As is grows the brightness get brighter and when it losses its life it shrinks in size and the brightness dims. When user shakes are randomly chooses a decrease in health. If B is pressed it display health and after uses an array to choose a random word from the array to display. if health of plant reaches zero the plant dies, and user must press AB the restart program. This plant can also interact with other by sending 0,1,2 to the other user the numbers mean giving health or taking health. **
+
+#### Design process
+
+**I first tried to do this program within the midterm but could not figure out how to display the growth of a plant. after completing the rest of the activities i figured it out. i just needed to set the display led in and if statement that ties in this the health gain or losses. Fist i asked how it should gain and lose health. the answer of this was pressing A to water the plant and add health. As well I made the health decreases though the user shaking the device and other device communication. Heath is very important for the user to continue playing this game. This game lies heavy on the fact of user interactions including A button, B button, shaking, radio, face down, face down and A, and face down and B. AB button restarts the program. The final program run perfectly**
+
+#### JS Constructs & objects
+
+****.
+
+
+
