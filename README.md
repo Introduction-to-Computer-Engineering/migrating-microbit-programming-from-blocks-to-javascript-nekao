@@ -136,12 +136,12 @@ This program send miscode between devices. if user Presses A it will send 0 and 
 
 ### v0.11
 Both programs use arrays. the first program GamePlay on star will count down then show a random word from the list. If user want to restart, they will just need to flip the device upside down then right side up and it will start over again. The second StaryNights when user presses A an array display a random twinkling display of leds. The last program TraversingArray has no functions is is just a good example how to wright an array. 
-[Activity 11 part 1](11GamePlay.js), [Activity 11 part 2](11StarryNight.js), [Activity 11 part 3](11TraversingArray)
+[Activity 11 part 1](11GamePlay.js), [Activity 11 part 2](11StarryNight.js), [Activity 11 part 3](11TraversingArray.js)
 
 
 ### v0.12
 in this program the user must grow their plant. To grow the plant the user must hold down the A button to water it. as the plant grows it can be seen growing the led display. As is grows the brightness get brighter and when it losses its life it shrinks in size and the brightness dims. When user shakes are randomly chooses a decrease in health. If B is pressed it display health and after uses an array to choose a random word from the array to display. if health of plant reaches zero the plant dies, and user must press AB the restart program. This plant can also interact with other by sending 0,1,2 to the other user the numbers mean giving health or taking health.
-
+[Final](12final.js)
 ## Designs
 
 ### Midterm project
