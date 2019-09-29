@@ -167,8 +167,8 @@ Calling, Sequencing, Variables, Operators, Statements, Functions, Types, Classes
 **I first tried to do this program within the midterm but could not figure out how to display the growth of a plant. after completing the rest of the activities i figured it out. i just needed to set the display led in and if statement that ties in this the health gain or losses. Fist i asked how it should gain and lose health. the answer of this was pressing A to water the plant and add health. As well I made the health decreases though the user shaking the device and other device communication. Heath is very important for the user to continue playing this game. This game lies heavy on the fact of user interactions including A button, B button, shaking, radio, face down, face down and A, and face down and B. AB button restarts the program. The final program run perfectly**
 
 #### JS Constructs & objects
-Calling, Sequencing, Variables, Operators, Statements, Functions, Types, Classes, Interfaces, Generics, logic, loops, variables, math, text, arrays, strings, and radio
-****.
+Calling, Sequencing, Variables, Operators, Statements, Functions, Types, Classes, Interfaces, Generics, logic, loops, variables, math, text, arrays, strings, and radio.
+****
 
 
 
